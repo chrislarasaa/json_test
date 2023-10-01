@@ -3,7 +3,20 @@
     "colors": {
       "background": "#2a233e",
       "primary": "#ff7e33",
-      "text": "#e3e2e9"
+      "textPrimary": "#e3e2e9",
+      "lightBackground": "#3f3751",
+      "textLight": "#c7c5d3",
+      "textSecondary": "#f1f0f466"
+    }
+  },
+  "light": {
+    "colors": {
+      "background": "#eee7f4",
+      "primary": "#ff7e33",
+      "textPrimary": "#17161d",
+      "lightBackground": "#872de61a",
+      "textLight": "#454257",
+      "textSecondary": "#454257"
     }
   }
 }
