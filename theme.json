@@ -2,7 +2,7 @@
   "dark": {
     "colors": {
       "background": "#2a233e",
-      "primary": "#ff7e33",
+      "primary": "#000",
       "text": "#e3e2e9"
     }
   }
