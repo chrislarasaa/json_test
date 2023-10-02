@@ -1,12 +1,12 @@
 {
   "dark": {
     "colors": {
-      "background": "#2a233e",
-      "primary": "#ff7e33",
-      "textPrimary": "#e3e2e9",
-      "backgroundLight": "#3f3751",
-      "textLight": "#c7c5d3",
-      "textSecondary": "#f1f0f466"
+      "background": "hsl(256, 27%, 19%)",
+      "primary": "hsla( 22, 101% , 60% , 1)",
+      "textPrimary": "hsla( 250, 14% , 90% , 1)",
+      "backgroundLight": "#ffffff16",
+      "textLight": "hsla( 250, 14% , 80% , 1)",
+      "textSecondary": "hsla( 250, 14% , 80% , 1)"
     }
   },
   "light": {
